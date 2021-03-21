@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TicTacToeTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-03-21T17:52:00" hostname="Garys-MBP.home" time="0.027">
+  <properties/>
+  <testcase name="firstPlayer_CanAddSecondMoveToBoard()" classname="TicTacToeTests" time="0.022"/>
+  <testcase name="secondPlayer_CanAddFirstMoveToBoard()" classname="TicTacToeTests" time="0.001"/>
+  <testcase name="firstPlayer_CanAddFirstMoveToBoard()" classname="TicTacToeTests" time="0.001"/>
+  <testcase name="gameBoardStartsWithNumbersOnly()" classname="TicTacToeTests" time="0.001"/>
+  <system-out><![CDATA[[X, 2, 3, 4, 5, 6, 7, 8, 9]
+[X, O, 3, 4, 5, 6, 7, 8, 9]
+[X, O, 3, X, 5, 6, 7, 8, 9]
+[X, 2, 3, 4, 5, 6, 7, 8, 9]
+[X, O, 3, 4, 5, 6, 7, 8, 9]
+[X, 2, 3, 4, 5, 6, 7, 8, 9]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
